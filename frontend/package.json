@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "proxy": "http://backend:5001",
-  "homepage": "https://V3L0Z.github.io/portfolio",
+  "homepage": "https://v3l0z.github.io/portfolio",
   "dependencies": {
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.1",
