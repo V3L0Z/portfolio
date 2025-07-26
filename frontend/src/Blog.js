@@ -8,6 +8,7 @@ import Latest from './components/Latest';
 import Footer from './components/Footer';
 
 export default function Blog(props: { disableCustomTheme?: boolean }) {
+  // const { disableCustomTheme } = props;
   return (
     <div>
       <CssBaseline enableColorScheme />
